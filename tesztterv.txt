@@ -1,0 +1,14 @@
+Teszt célja
+	-A tesztelési terv célja a tesztelés teljes körűségének biztosítása, a tesztelés során alkalmazott 
+	 eljárások és megoldások meghatározásával.
+	-Tesztelést végző: Nagy Norbert
+
+Tesztelési eszközök:
+	-VS Code
+	-Chrome
+Teszt Típusa:
+	-Fejlesztői teszt: A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése, 
+	 a hibakezelés és az alapvető funkciók működésének vizsgálata.
+
+	-Ellenőrizni kívánt modulok:
+		-Web Frontend

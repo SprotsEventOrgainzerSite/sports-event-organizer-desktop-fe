@@ -1,0 +1,17 @@
+-Egy olyan webfelület készítése amivel a diákok képesek a sporteseményeket nyomon követni, jelentkezni
+
+-funkciók:
+	-Login
+	-Regsztráció és bejelentkezési adatok adatbázisban tárolása
+	-Hírfolyam ahol a hírek adatbázisból jönnek
+	-Sportesemények felsorolása és lehetőség a rájuk történő jelentkezésre
+	-A bejelentkezett felhasználó adatainak lekérése valamint eredményeinek és a jelentkezett események felsorolása
+	-Kijelentkezés
+
+-Platform:
+	-Ms Azure App Service(PaaS)
+	-Channels: DirectLine, Mobile
+
+-Biztosnág:
+	-Azure Sentinel
+	- VNet integration

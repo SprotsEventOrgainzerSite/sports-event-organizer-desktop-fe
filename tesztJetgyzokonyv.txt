@@ -1,0 +1,11 @@
+Tesztelési elvárások:
+	-Funkcionális:
+		-WebFrontend
+Tesztelés:
+	-A programot sikeresen le lehet buildelni, egy input esetén sem dob hibát
+
+A tesztek a várt adatokat szolgáltatták.
+
+A teszt sikeresen zárult, minden funkció megfelelően működik.
+
+2022.05.05

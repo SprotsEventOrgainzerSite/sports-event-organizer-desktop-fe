@@ -1,0 +1,17 @@
+WEB FRONTEND
+
+Felhasználói felületet biztosít a diákoknak, hogy a sporterseményekre történő jelentkezéseket online intézzék, továbbá
+saját eredményeiket is azon belül érhessék el.
+
+-fejlsztői környezet: VS Code
+-Programnyelv: React
+-Szükséges előkövetelmény: node.js, node package manager(npm), git bash
+-verziókövetés: github
+
+Design:
+	-Elősször login felület, ahol lehetőség van regisztrációra.
+	-bejelentkezéskor a newsfeedhez kerül a user, header menu-ben lehet menupontok között navigálni
+	-Jelentkezésre az 'Events' menupontban van lehetőség a 'sign up'-ra kattintva
+	-'Logout' menuponntal lehet kijelentkezni
+
+-One page app -> a contentet a 'RenderHandler' file-ban lévő 'renderState' biztosítja
